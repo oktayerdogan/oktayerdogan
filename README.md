@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oktayerdogan&label=Profile%20views&color=0e75b6&style=flat" alt="oktayerdogan" /> </p>
 <div> <img src="https://wakatime.com/badge/user/ed5d385a-b44d-4fa3-9d72-ef87d2f1bf32.svg"/> </div>
 <p align="center">
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **Spring Boot**
 </p>
 <p align="center">
 - 📫 How to reach me **oktayerdogan2000@hotmail.com**
